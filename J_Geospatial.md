@@ -20,7 +20,7 @@ Launch in CyVerse with a [verified user account (free)](https://user.cyverse.org
 2. CyVerse Packages:
     - python, go, and iRODS icommands, GitHub cli, and CyberDuck CLI
 3. Geospatial Specific
-    - jupyterlab-geojson : extension for rendering GeoJSON\n
+    - jupyterlab-geojson : extension for rendering GeoJSON
     - sidecar : context manager for jupyter
     - ipyvolume : 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
     - itkwidgets : Interactive Jupyter widgets to visualize images, point sets, and meshes
