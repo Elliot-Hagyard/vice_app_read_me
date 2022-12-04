@@ -60,7 +60,7 @@ Once the import process for your first file source is complete, you will have ac
 
 ### Crawler Script ###
 
-[The DataHog Crawler Script](https://github.com/cyverse/datahog/blob/master/django/static/scripts/datahog_crawler.py) is a small Python 3 program used to scan a directory and generate a `.datahog` file, which can be imported directly into DataHog.
+[The DataHog Crawler Script](https://github.com/cyverse/datahog/django/static/scripts/datahog_crawler.py) is a small Python 3 program used to scan a directory and generate a `.datahog` file, which can be imported directly into DataHog.
 
 You can run it like so:
 
