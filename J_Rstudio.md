@@ -10,7 +10,7 @@ Jupyter Lab Datascience image built from the [Datascience Notebook](https://hub.
 
 Launch in CyVerse with a [verified user account (free)](https://user.cyverse.org):
 
-[![quicklaunch](https://img.shields.io/badge/Datascience-latest-orange?style=plastic&logo=jupyter)](https://de.cyverse.org/apps/de/cc77b788-bc45-11eb-9934-008cfa5ae621/launch)
+[![quicklaunch](https://img.shields.io/badge/RStudio-latest-orange?style=plastic&logo=jupyter)](https://de.cyverse.org/apps/de/c2227314-1995-11ed-986c-008cfa5ae621)
 
 ### Packages
 
@@ -46,7 +46,7 @@ docker run -it --rm -p 8888:8888 -e REDIRECT_URL=http://localhost:8888 harbor.cy
 To build your own container with a Dockerfile and additional dependencies, pull the pre-built image from DockerHub:
 
 ```
-FROM harbor.cyverse.org/vice/jupyter/datascience:latest
+FROM harbor.cyverse.org/vice/jupyter/rstudio:latest
 ```
 
 Follow the instructions in the [VICE manual for integrating your own tools and apps](https://learning.cyverse.org/vice/extend_apps/#building-an-app-for-your-tool).
