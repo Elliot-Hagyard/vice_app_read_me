@@ -1,8 +1,8 @@
 # Jupyterlab Datascience Notebook RStudio
 
-[![Project Supported by CyVerse](https://de.cyverse.org/Powered-By-CyVerse-blue.svg)](https://learning.cyverse.org/projects/vice/en/latest/) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![license](https://img.shields.io/badge/license-BSD3-red.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause)
+[![Project Supported by CyVerse](https://de.cyverse.org/Powered-By-CyVerse-blue.svg)](https://learning.cyverse.org/vice/about/) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![license](https://img.shields.io/badge/license-BSD3-red.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause)
 
-[Project Jupyter](https://jupyter.org/) Datascience Notebook with packages for RStudio/Shiny and a few added packages for use in [CyVerse Discovery Environment](https://de.cyverse.org/)
+[Project Jupyter](https://jupyter.org/) Datascience Notebook with packages for RStudio Shiny and a few added packages for use in [CyVerse Discovery Environment](https://de.cyverse.org/)
 
 Jupyter Lab Datascience image built from the [Datascience Notebook](https://hub.docker.com/r/jupyter/datascience-notebook) for [CyVerse VICE](https://learning.cyverse.org/vice/about/). Project Jupyter's base image requires a couple additional configuration files for it be compatible with CyVerse Kubernetes orchestration and iRODS data store.
 
